@@ -1,0 +1,14 @@
+﻿  marcas.cpp
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v2\Mysql\Mysql\marcas.h(80,6): error C2059: error de sintaxis: '/'
+  Mysql.cpp
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\marcas.h(80,6): error C2059: error de sintaxis: '/'
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,20): error C2065: 'productos': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,31): error C2065: 'idmarca': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,40): error C2065: 'descripcion': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,53): error C2065: 'precio_costo': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,67): error C2065: 'precio_venta': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,81): error C2065: 'existencia': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,93): error C2065: 'fecha_ingreso': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(115,108): error C2065: 'marca': identificador no declarado
+C:\Users\joedd\Documents\visual\proyectos c++\tarea2\menu v3\Mysql\Mysql\Mysql.cpp(75,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
